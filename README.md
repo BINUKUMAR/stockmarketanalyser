@@ -1,0 +1,4 @@
+stockmarketanalyser
+===================
+
+B&amp;BstockMarketAnalyser
